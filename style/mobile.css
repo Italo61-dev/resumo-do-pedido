@@ -7,3 +7,9 @@
 body {
     background-color: #E1E9FF;
 }
+
+section {
+    background-color: #fff;
+    width: 250px;
+    height: 500px;
+}
